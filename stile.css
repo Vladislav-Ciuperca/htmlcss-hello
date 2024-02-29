@@ -9,6 +9,7 @@ body{
 
 h1{
     color: red;
+    background-color: rgb(10, 88, 106);
     font-size: larger;
     position: absolute;
     top: 50%;
