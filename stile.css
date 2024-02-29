@@ -3,7 +3,14 @@
     margin: 0;
 }
 
+body{
+    position: relative;
+}
+
 h1{
     color: red;
     font-size: larger;
+    position: absolute;
+    top: 50%;
+    right: 50%;
 }
