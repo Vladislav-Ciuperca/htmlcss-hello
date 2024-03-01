@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-body{
+div{
     position: relative;
 }
 
@@ -12,7 +12,6 @@ h1{
     background-color: rgb(10, 88, 106);
     font-size: larger;
     position: absolute;
-    top: 50vw;
-    right: 50vh;
-    transform: translate(-50%,-50%);
+    top: 50vh;
+    right: 50vw;
 }
